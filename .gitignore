@@ -1,0 +1,5 @@
+# Carpeta obj generada por MSBuild
+obj/
+
+# Carpeta bin generada por la compilación
+bin/

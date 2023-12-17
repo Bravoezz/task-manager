@@ -1,0 +1,72 @@
+[
+  {
+    "Id": 1,
+    "Name": "Hacer la compra",
+    "Description": "Ir al supermercado y comprar los art\u00EDculos necesarios",
+    "Finished": true,
+    "CreatedAt": ""
+  },
+  {
+    "Id": 2,
+    "Name": "Estudiar para el examen",
+    "Description": "Revisar los apuntes y prepararse para el pr\u00F3ximo examen",
+    "Finished": true,
+    "CreatedAt": ""
+  },
+  {
+    "Id": 3,
+    "Name": "Realizar ejercicio",
+    "Description": "Hacer ejercicio f\u00EDsico durante al menos 30 minutos",
+    "Finished": false,
+    "CreatedAt": ""
+  },
+  {
+    "Id": 4,
+    "Name": "Llamar a un amigo",
+    "Description": "Hacer una llamada a un amigo para ponerte al d\u00EDa",
+    "Finished": false,
+    "CreatedAt": ""
+  },
+  {
+    "Id": 5,
+    "Name": "Terminar el informe",
+    "Description": "Completar el informe para la reuni\u00F3n de ma\u00F1ana",
+    "Finished": false,
+    "CreatedAt": ""
+  },
+  {
+    "Id": 6,
+    "Name": "Aprender una nueva receta",
+    "Description": "Buscar una receta en l\u00EDnea y cocinar algo nuevo",
+    "Finished": true,
+    "CreatedAt": ""
+  },
+  {
+    "Id": 7,
+    "Name": "Leer un cap\u00EDtulo de un libro",
+    "Description": "Dedicar 30 minutos a la lectura de un libro",
+    "Finished": false,
+    "CreatedAt": ""
+  },
+  {
+    "Id": 8,
+    "Name": "Limpiar el espacio de trabajo",
+    "Description": "Organizar y limpiar tu \u00E1rea de trabajo",
+    "Finished": false,
+    "CreatedAt": ""
+  },
+  {
+    "Id": 9,
+    "Name": "Ver una lecci\u00F3n en l\u00EDnea",
+    "Description": "Aprender algo nuevo viendo una lecci\u00F3n en l\u00EDnea",
+    "Finished": true,
+    "CreatedAt": ""
+  },
+  {
+    "Id": 10,
+    "Name": "Pasear al perro",
+    "Description": "Dar un paseo con tu perro en el parque",
+    "Finished": true,
+    "CreatedAt": ""
+  }
+]
